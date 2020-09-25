@@ -1,0 +1,380 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 10  trans 0
+MATERIAL "ac3dmat4" rgb 0.49 0.49 0.49  amb 0.49 0.49 0.49  emis 0.1 0.1 0.1  spec 0.502 0.502 0.502  shi 10  trans 0
+MATERIAL "ac3dmat3" rgb 1 1 1  amb 1 1 1  emis 1 1 1  spec 1 1 1  shi 55  trans 0
+MATERIAL "Material.002" rgb 1 1 1  amb 1 1 1  emis 1 1 1  spec 1 1 1  shi 72  trans 0
+MATERIAL "ac3dmat3" rgb 1 1 1  amb 1 1 1  emis 0.85 0.8 0.6  spec 1 1 1  shi 55  trans 0
+OBJECT world
+kids 10
+OBJECT poly
+name "DayModel"
+loc 0 62.5 0
+texture "parkinn.rgb"
+crease 45.000000
+numvert 8
+-25 -62.5 -11
+-25 62.5 -11
+25 62.5 -11
+25 -62.5 -11
+-25 -62.5 11
+-25 62.5 11
+25 62.5 11
+25 -62.5 11
+numsurf 6
+SURF 0x0
+mat 0
+refs 4
+4 0 0
+0 0.300781 0
+3 0.300781 0.824219
+7 0 0.824219
+SURF 0x0
+mat 0
+refs 4
+1 0.878906 0.00333199
+5 1.00391 0.00333199
+6 1.00391 0.124426
+2 0.878906 0.124426
+SURF 0x0
+mat 0
+refs 4
+4 0.401842 0.000117242
+5 0.401842 0.581429
+1 0.269645 0.581429
+0 0.269645 0.000117242
+SURF 0x0
+mat 0
+refs 4
+7 0.257812 -0.00275856
+6 0.257812 0.579273
+5 -0.00390625 0.579273
+4 -0.00390625 -0.00275856
+SURF 0x0
+mat 0
+refs 4
+6 0.402344 0.579273
+7 0.402344 -0.00275856
+3 0.269531 -0.00275856
+2 0.269531 0.579273
+SURF 0x0
+mat 0
+refs 4
+0 0.257812 -0.00275856
+1 0.257812 0.579273
+2 0 0.579273
+3 0 -0.00275856
+kids 0
+OBJECT poly
+name "DayBox"
+loc -3.8147e-06 128.5 -2.92605e-07
+texture "parkinn.rgb"
+crease 45.000000
+numvert 8
+-20 -3.5 -4
+-20 3.5 -4
+20 3.5 -4
+20 -3.5 -4
+-20 -3.5 4
+-20 3.5 4
+20 3.5 4
+20 -3.5 4
+numsurf 6
+SURF 0x0
+mat 0
+refs 4
+4 0 0.835938
+0 0.933594 0.835938
+3 0.933594 1
+7 0 1
+SURF 0x0
+mat 0
+refs 4
+1 0.893798 0.0124748
+5 0.995361 0.0124748
+6 0.995361 0.110131
+2 0.893798 0.110131
+SURF 0x0
+mat 0
+refs 4
+4 0.183594 0.835938
+5 0.183594 1
+1 0 1
+0 0 0.835938
+SURF 0x0
+mat 0
+refs 4
+7 0.933594 0.835938
+6 0.933594 1
+5 0 1
+4 0 0.835938
+SURF 0x0
+mat 0
+refs 4
+6 0 1
+7 0 0.835938
+3 0.183594 0.835938
+2 0.183594 1
+SURF 0x0
+mat 0
+refs 4
+0 0.933594 0.835938
+1 0.933594 1
+2 0 1
+3 0 0.835938
+kids 0
+OBJECT poly
+name "Logo.Lit1"
+loc -3.81471e-06 128.5 4.1
+texture "parkinn.rgb"
+crease 45.000000
+numvert 4
+20 -3.5 0
+-20 -3.5 0
+20 3.5 0
+-20 3.5 0
+numsurf 2
+SURF 0x30
+mat 2
+refs 3
+0 1.14062 0.664062
+2 1.14062 0.828125
+3 0.203125 0.828125
+SURF 0x30
+mat 2
+refs 3
+0 1.14062 0.664062
+3 0.203125 0.828125
+1 0.203125 0.664062
+kids 0
+OBJECT poly
+name "Logo.Lit2"
+loc -3.81469e-06 128.5 -4.1
+texture "parkinn.rgb"
+crease 45.000000
+numvert 4
+20 3.5 1.90735e-06
+-20 3.5 -1.90735e-06
+20 -3.5 1.90735e-06
+-20 -3.5 -1.90735e-06
+numsurf 2
+SURF 0x30
+mat 2
+refs 3
+3 1.14062 0.664062
+0 0.203125 0.828125
+2 0.203125 0.664062
+SURF 0x30
+mat 2
+refs 3
+3 1.14062 0.664062
+1 1.14062 0.828125
+0 0.203125 0.828125
+kids 0
+OBJECT poly
+name "RedLight1"
+texture "parkinn-redlight.rgb"
+crease 45.000000
+numvert 4
+1 1 0
+-1 1 0
+1 -1 0
+-1 -1 0
+numsurf 2
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+3 0 0
+1 0 1
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+2 1 0
+3 0 0
+kids 0
+OBJECT poly
+name "RedLight2"
+texture "parkinn-redlight.rgb"
+crease 45.000000
+numvert 4
+1 1 0
+-1 1 0
+1 -1 0
+-1 -1 0
+numsurf 2
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+3 0 0
+1 0 1
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+2 1 0
+3 0 0
+kids 0
+OBJECT poly
+name "RedLight3"
+texture "parkinn-redlight.rgb"
+crease 45.000000
+numvert 4
+1 1 0
+-1 1 0
+1 -1 0
+-1 -1 0
+numsurf 2
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+3 0 0
+1 0 1
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+2 1 0
+3 0 0
+kids 0
+OBJECT poly
+name "RedLight4"
+texture "parkinn-redlight.rgb"
+crease 45.000000
+numvert 4
+1 1 0
+-1 1 0
+1 -1 0
+-1 -1 0
+numsurf 2
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+3 0 0
+1 0 1
+SURF 0x30
+mat 3
+refs 3
+0 1 1
+2 1 0
+3 0 0
+kids 0
+OBJECT poly
+name "NightModel"
+loc 0 62.5 0
+texture "parkinn.rgb"
+crease 45.000000
+numvert 8
+25 -62.5 11
+25 62.5 11
+-25 62.5 11
+-25 -62.5 11
+25 -62.5 -11
+25 62.5 -11
+-25 62.5 -11
+-25 -62.5 -11
+numsurf 6
+SURF 0x0
+mat 4
+refs 4
+7 0.669913 0.00144285
+6 0.669913 0.580671
+5 0.413503 0.580671
+4 0.413503 0.00144285
+SURF 0x0
+mat 4
+refs 4
+1 0.808134 0.579292
+0 0.808134 0.00116622
+4 0.690946 0.00116622
+5 0.690946 0.579292
+SURF 0x0
+mat 4
+refs 4
+0 0.671388 0.00250602
+1 0.671388 0.581025
+2 0.414938 0.581025
+3 0.414938 0.00250602
+SURF 0x0
+mat 4
+refs 4
+3 0.816406 -0.00275856
+2 0.816406 0.579273
+6 0.683594 0.579273
+7 0.683594 -0.00275856
+SURF 0x0
+mat 4
+refs 4
+6 0.878906 0.00333199
+2 1.00391 0.00333199
+1 1.00391 0.124426
+5 0.878906 0.124426
+SURF 0x0
+mat 4
+refs 4
+3 0 0
+7 0.300781 0
+4 0.300781 0.824219
+0 0 0.824219
+kids 0
+OBJECT poly
+name "NightBox"
+loc -3.8147e-06 128.5 -2.92605e-07
+texture "parkinn.rgb"
+crease 45.000000
+numvert 8
+20 -3.5 4
+20 3.5 4
+-20 3.5 4
+-20 -3.5 4
+20 -3.5 -4
+20 3.5 -4
+-20 3.5 -4
+-20 -3.5 -4
+numsurf 6
+SURF 0x0
+mat 1
+refs 4
+7 0.933594 0.835938
+6 0.933594 1
+5 0 1
+4 0 0.835938
+SURF 0x0
+mat 1
+refs 4
+1 0 1
+0 0 0.835938
+4 0.183594 0.835938
+5 0.183594 1
+SURF 0x0
+mat 1
+refs 4
+0 0.933594 0.835938
+1 0.933594 1
+2 0 1
+3 0 0.835938
+SURF 0x0
+mat 1
+refs 4
+3 0.183594 0.835938
+2 0.183594 1
+6 0 1
+7 0 0.835938
+SURF 0x0
+mat 1
+refs 4
+6 0.893798 0.0124748
+2 0.995361 0.0124748
+1 0.995361 0.110131
+5 0.893798 0.110131
+SURF 0x0
+mat 1
+refs 4
+3 0 0.835938
+7 0.933594 0.835938
+4 0.933594 1
+0 0 1
+kids 0

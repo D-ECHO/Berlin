@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>TempelhoferDamm78-102.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+ 
+ <animation>
+     <type>alpha-test</type>
+     <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+ <animation>
+    <type>select</type>
+    <object-name>LichtRot</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+ </animation>
+ 
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  141.681 </x-m>
+			<y-m> -37.2699 </y-m>
+			<z-m>  19.1144 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  108.336 </x-m>
+			<y-m> -37.0546 </y-m>
+			<z-m>  21.6756 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  71.7647 </x-m>
+			<y-m> -37.0546 </y-m>
+			<z-m>  21.6756 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -13.2797 </x-m>
+			<y-m> -37.9032 </y-m>
+			<z-m>  21.2651 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -34.4501 </x-m>
+			<y-m> -37.9033 </y-m>
+			<z-m>  21.2701 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -55.1549 </x-m>
+			<y-m> -37.9033 </y-m>
+			<z-m>  21.2701 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -77.2895 </x-m>
+			<y-m> -37.9033 </y-m>
+			<z-m>  21.2701 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -98.7289 </x-m>
+			<y-m> -37.9033 </y-m>
+			<z-m>  21.2701 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -139.54 </x-m>
+			<y-m> -0.609407 </y-m>
+			<z-m>  21.2563 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -154.229 </x-m>
+			<y-m> -0.980697 </y-m>
+			<z-m>  21.2563 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -171.578 </x-m>
+			<y-m> -1.33096 </y-m>
+			<z-m>  21.2563 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+</PropertyList>

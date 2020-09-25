@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+	
+	<!--Sources-->
+	<!--
+	http://nav.vatsim-germany.org/files/edww/charts/eddb/public/EDDB_IAC_RWY25L.pdf
+	http://nav.vatsim-germany.org/files/edww/charts/eddb/public/EDDB_IAC_RWY25R.pdf
+	http://nav.vatsim-germany.org/files/edww/charts/eddb/public/EDDB_IAC_RWY07L.pdf
+	http://nav.vatsim-germany.org/files/edww/charts/eddb/public/EDDB_IAC_RWY07R.pdf
+	-->
+  <runway>
+    <ils>
+      <lon>13.468432</lon>
+      <lat>52.345424</lat>
+      <rwy>07R</rwy>
+      <hdg-deg>68.76</hdg-deg>
+      <elev-m>47.85</elev-m>
+      <nav-id>IBSE</nav-id>
+    </ils>
+    <ils>
+      <lon>13.523145</lon>
+      <lat>52.358413</lat>
+      <rwy>25L</rwy>
+      <hdg-deg>248.76</hdg-deg>
+      <elev-m>47.85</elev-m>
+      <nav-id>IBSW</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>  13.480917 </lon>
+      <lat> 52.366707 </lat>
+      <rwy>07L</rwy>
+      <hdg-deg>68.77</hdg-deg>
+      <elev-m>47.85</elev-m>
+      <nav-id>IBNE</nav-id>
+    </ils>
+    <ils>
+      <lon>  13.530207 </lon>
+      <lat> 52.378398 </lat>
+      <rwy>25R</rwy>
+      <hdg-deg>248.77</hdg-deg>
+      <elev-m>47.85</elev-m>
+      <nav-id>IBNW</nav-id>
+    </ils>
+  </runway>
+</PropertyList>

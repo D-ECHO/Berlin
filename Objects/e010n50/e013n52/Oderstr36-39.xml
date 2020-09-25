@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>Oderstr36-39.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+
+ <animation>
+     <type>alpha-test</type>
+     <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+ <animation>
+    <type>select</type>
+    <object-name>LichtRot</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+ </animation>
+ 
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -45.3752 </x-m>
+			<y-m> -18.7981 </y-m>
+			<z-m>  18.9291 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -44.3162 </x-m>
+			<y-m> 2.41939 </y-m>
+			<z-m>  18.9291 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -43.8561 </x-m>
+			<y-m> 37.8506 </y-m>
+			<z-m>  18.9291 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+	
+</PropertyList>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <path>eddt-tower.ac</path>
+
+  <animation>
+    <type>select</type>
+    <object-name>TowerNight_1</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </greater-than>
+    </condition>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>Tower_1</object-name>
+    <condition>
+      <not>
+        <greater-than>
+          <property>/sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+        </greater-than>
+      </not>
+    </condition>
+  </animation>
+
+
+</PropertyList>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>Oderstr28.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+ 
+ <animation>
+     <type>alpha-test</type>
+     <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+ <animation>
+    <type>select</type>
+    <object-name>LichtRot</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+ </animation>
+ 
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -70.1995 </x-m>
+			<y-m> -5.47294 </y-m>
+			<z-m>  21.1153 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -70.6069 </x-m>
+			<y-m> 18.3404 </y-m>
+			<z-m>  21.1153 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -76.9504 </x-m>
+			<y-m> -10.0367 </y-m>
+			<z-m>  17.5815 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -64.093 </x-m>
+			<y-m> -10.0367 </y-m>
+			<z-m>  17.5815 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -16.7039 </x-m>
+			<y-m> 0.811285 </y-m>
+			<z-m>  21.1153 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  18.1057 </x-m>
+			<y-m> 0.811285 </y-m>
+			<z-m>  21.1153 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  70.2137 </x-m>
+			<y-m> -5.44969 </y-m>
+			<z-m>  21.1153 </z-m>
+		</offsets>
+	</model>
+	
+
+</PropertyList>

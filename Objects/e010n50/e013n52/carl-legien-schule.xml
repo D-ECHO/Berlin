@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>carl-legien-schule.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+ 
+ <animation>
+     <type>alpha-test</type>
+     <alpha-factor>0.01</alpha-factor>
+ </animation>
+ 
+  <animation>
+    <type>select</type>
+    <object-name>FensterNacht1</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.58</value>
+       </greater-than>
+    </condition>
+ </animation>
+ 
+ <animation>
+    <type>select</type>
+    <object-name>FensterNacht2</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.49</value>
+       </greater-than>
+    </condition>
+ </animation>
+
+
+ <animation>
+    <type>select</type>
+    <object-name>LichtRot</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+ </animation>
+ 
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -6.82627 </x-m>
+			<y-m> -6.45537 </y-m>
+			<z-m>  30.6396 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  6.97473 </x-m>
+			<y-m> -6.45537 </y-m>
+			<z-m>  30.6396 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+
+</PropertyList>

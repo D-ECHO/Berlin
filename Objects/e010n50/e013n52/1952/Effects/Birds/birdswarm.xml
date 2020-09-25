@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+ <model>
+   <path>birdswarm1.xml</path>
+ </model>
+
+ <model>
+   <path>birdswarm2.xml</path>
+ </model>
+
+ <model>
+   <path>birdswarm3.xml</path>
+ </model>
+
+ <model>
+   <path>birdswarm4.xml</path>
+ </model>
+
+
+
+</PropertyList>

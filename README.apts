@@ -1,0 +1,2 @@
+Following command has been used processing the airport data: 
+	for i in data/airports/*.dat; do genapts850 --input="$i" --work=./work --dem-path=SRTM-3 --max-slope=0.02; done

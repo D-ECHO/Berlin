@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+  <path>HighFlyer-Berlin.ac</path>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-m>20000</max-m>
+  </animation>
+
+  <animation>
+    <type>range</type>
+    <object-name>Anchor</object-name>
+    <min-m>0</min-m>
+    <max-m>1000</max-m>
+  </animation>
+
+  <animation>
+    <type>range</type>
+    <object-name>Ropes</object-name>
+    <min-m>0</min-m>
+    <max-m>1000</max-m>
+  </animation>
+
+  <animation>
+    <type>translate</type>
+    <property>/sim/time/utc/second</property>
+    <interpolation>
+      <entry>
+        <ind>0</ind>
+        <dep>0</dep>
+      </entry>
+      <entry>
+        <ind>10</ind>
+        <dep>150</dep>
+      </entry>
+      <entry>
+        <ind>30</ind>
+        <dep>150</dep>
+      </entry>
+      <entry>
+        <ind>40</ind>
+        <dep>0</dep>
+      </entry>
+      <entry>
+        <ind>59</ind>
+        <dep>0</dep>
+      </entry>
+    </interpolation>
+    <axis>
+      <x>0</x>
+      <y>0</y>
+      <z>150</z>
+    </axis>
+  </animation>
+
+</PropertyList>

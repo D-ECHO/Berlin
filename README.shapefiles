@@ -1,0 +1,30 @@
+Following extracts from openstreetmap have been used:
+
+Landclass Name		OSM Key						Line width
+	- Polygons -
+Allotments		landuse=allotments
+Scrub			natural=scrub
+Park			leisure=park
+Grass			landuse=grass
+Commercial		landuse=commercial
+Sand			natural=beach
+Lake			natural=water
+NaturalCrop		landuse=farmland
+Heath			natural=heath
+MixedForest		landuse=forest natural=wood
+Industrial		landuse=industrial
+Grassland		landuse=meadow
+Town			landuse=residential place=town
+	- Lines -
+Stream			waterway=river					5
+Stream			waterway=stream					3
+Asphalt			highway=motorway highway=motorway_link		10
+Asphalt			highway=trunk highway=trunk_link		8
+Asphalt			highway=primary highway=primary_link		7
+Asphalt			highway=secondary highway=secondary_link	6
+Asphalt			highway=tertiary highway=tertiary_link		5
+Railroad		railway=rail					2
+
+Following extracts from CORINE have been used:
+Landclass Name		CORINE code
+Urban			111

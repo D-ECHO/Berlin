@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>OderstrHerrfurth.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+ 
+ <animation>
+     <type>alpha-test</type>
+     <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+ <animation>
+    <type>select</type>
+    <object-name>LichtRot</object-name>
+    <condition>
+       <greater-than>
+          <property>sim/time/sun-angle-rad</property>
+          <value>1.57</value>
+       </greater-than>
+    </condition>
+ </animation>
+ 
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -39.1307 </x-m>
+			<y-m> 6.90248 </y-m>
+			<z-m>  19.3865 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -39.1157 </x-m>
+			<y-m> -18.4349 </y-m>
+			<z-m>  19.3865 </z-m>
+		</offsets>
+	</model>
+		
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -39.4037 </x-m>
+			<y-m> -46.5153 </y-m>
+			<z-m>  19.3865 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  -40.7379 </x-m>
+			<y-m> -58.7868 </y-m>
+			<z-m>  19.3865 </z-m>
+		</offsets>
+	</model>
+	
+<!-- reihe vorn -->
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -44.9221 </x-m>
+			<y-m> 2.71543 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -44.9931 </x-m>
+			<y-m> -0.539799 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.0641 </x-m>
+			<y-m> -3.79502 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.1351 </x-m>
+			<y-m> -7.05025 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.2062 </x-m>
+			<y-m> -10.3055 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.2772 </x-m>
+			<y-m> -13.5607 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.3482 </x-m>
+			<y-m> -16.8159 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.4193 </x-m>
+			<y-m> -20.0712 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.4903 </x-m>
+			<y-m> -23.3264 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.5613 </x-m>
+			<y-m> -26.5816 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.6324 </x-m>
+			<y-m> -29.8368 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.7034 </x-m>
+			<y-m> -33.092 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.7744 </x-m>
+			<y-m> -36.3473 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.8455 </x-m>
+			<y-m> -39.6025 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/RedLight5000.xml</path>
+		<offsets>
+			<x-m>  -45.9165 </x-m>
+			<y-m> -42.8577 </y-m>
+			<z-m>  18.6678 </z-m>
+		</offsets>
+	</model>
+	
+
+</PropertyList>

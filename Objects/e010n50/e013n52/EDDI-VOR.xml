@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>EDDI-VOR.ac</path>
+ 
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>10000</max-m>
+ </animation>
+ 
+ <animation>
+     <type>alpha-test</type>
+     <alpha-factor>0.01</alpha-factor>
+ </animation>
+
+	<animation>
+		<type>select</type>
+		<object-name>LichtRot</object-name>
+		<condition>
+			<or>
+				<greater-than>
+						<property>sim/time/sun-angle-rad</property>
+						<value>1.48</value>
+				</greater-than>
+				<less-than>
+					<property>environment/visibility-m</property>
+					<value>1300.00</value>
+				</less-than>
+			</or>
+		</condition>
+	</animation>
+ 
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  12.5588 </x-m>
+			<y-m> 7.98134 </y-m>
+			<z-m>  13.8426 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>  12.5588 </x-m>
+			<y-m> 7.58202 </y-m>
+			<z-m>  13.8426 </z-m>
+			<pitch-deg> 0.00 </pitch-deg>
+			<heading-deg> 0.00 </heading-deg>
+		</offsets>
+	</model>
+	
+<!-- Obstruction lamp glass illumination -->
+	<animation>
+		<type>material</type> 
+		<object-name>LichtRot</object-name>
+		<condition>
+			<or>
+				<greater-than>
+					<property>/sim/time/sun-angle-rad</property>
+					<value>1.48</value>
+				</greater-than>
+				<less-than>
+					<property>environment/visibility-m</property>
+					<value>1300.00</value>
+				</less-than>
+			</or>
+		</condition>
+		<emission>	
+			<red>1.0</red>	
+			<green>0.1</green>	
+			<blue>0.1</blue>
+		</emission>
+	</animation>
+	
+</PropertyList>

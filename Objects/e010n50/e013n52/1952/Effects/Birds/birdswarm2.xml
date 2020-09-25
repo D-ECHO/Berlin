@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+ <path>birds.ac</path>
+
+        <offsets>
+            <x-m> 40 </x-m>
+            <y-m> 20 </y-m>
+            <z-m> 200.0 </z-m>
+        </offsets>
+<animation>
+		<object-name>birds1</object-name>
+  		<type>scale</type>
+  		<x-offset>50.0</x-offset>
+  		<y-offset>50.0</y-offset>
+  		<z-offset>50.0</z-offset>
+ </animation>
+
+<animation>
+  <object-name>birds1</object-name>
+  <enable-hot type="bool">false</enable-hot>
+</animation>
+
+ <effect>
+   <inherits-from>Effects/birdswarm</inherits-from>
+   <object-name>birds1</object-name>
+ </effect>
+
+
+
+
+
+</PropertyList>

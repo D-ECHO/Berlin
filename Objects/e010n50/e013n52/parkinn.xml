@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>parkinn.ac</path>
+
+  <animation>
+	<type>range</type>
+	<min-m>0</min-m>
+	<max-m>40000</max-m>
+  </animation>
+
+  <animation>
+	<type>alpha-test</type>
+	<alpha-factor>0.01</alpha-factor>
+  </animation>
+
+  <animation> <!-- Lights on -->
+	<type>select</type>
+	<object-name>NightModel</object-name>
+	<object-name>NightBox</object-name>
+	<object-name>Logo.Lit1</object-name>
+	<object-name>Logo.Lit2</object-name>
+	<object-name>RedLight1</object-name>
+	<object-name>RedLight2</object-name>
+	<object-name>RedLight3</object-name>
+	<object-name>RedLight4</object-name>
+	<condition>
+	  <greater-than>
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.5</value>
+	  </greater-than>
+	</condition>
+  </animation>
+
+  <animation> <!-- Lights on -->
+	<type>select</type>
+	<object-name>DayModel</object-name>
+	<object-name>DayBox</object-name>
+	<condition>
+	  <less-than-equals>
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.5</value>
+	  </less-than-equals>
+	</condition>
+  </animation>
+
+
+  <!-- light parameters -->
+
+  <animation>
+	<type>translate</type>
+	<object-name>RedLight1</object-name>
+	<offset-m>127.5</offset-m>
+	<axis>
+	  <x>20</x>
+	  <y>4</y>
+	  <z>125</z>
+	</axis>
+  </animation>
+
+  <animation>
+	<type>billboard</type>
+	<object-name>RedLight1</object-name>
+	<spherical type="bool">true</spherical>
+  </animation>
+
+  <animation>
+	<type>dist-scale</type>
+	<object-name>RedLight1</object-name>
+	<interpolation>
+	  <entry><ind>0</ind><dep>0.5</dep></entry>
+	  <entry><ind>1000</ind><dep>1</dep></entry>
+	  <entry><ind>16000</ind><dep>10</dep></entry>
+	</interpolation>
+  </animation>
+
+  <animation>
+	<type>translate</type>
+	<object-name>RedLight2</object-name>
+	<offset-m>127.5</offset-m>
+	<axis>
+	  <x>-20</x>
+	  <y>4</y>
+	  <z>125</z>
+	</axis>
+  </animation>
+
+  <animation>
+	<type>billboard</type>
+	<object-name>RedLight2</object-name>
+	<spherical type="bool">true</spherical>
+  </animation>
+
+  <animation>
+	<type>dist-scale</type>
+	<object-name>RedLight2</object-name>
+	<interpolation>
+	  <entry><ind>0</ind><dep>0.5</dep></entry>
+	  <entry><ind>1000</ind><dep>1</dep></entry>
+	  <entry><ind>16000</ind><dep>10</dep></entry>
+	</interpolation>
+  </animation>
+
+  <animation>
+	<type>translate</type>
+	<object-name>RedLight3</object-name>
+	<offset-m>127.5</offset-m>
+	<axis>
+	  <x>-20</x>
+	  <y>-4</y>
+	  <z>125</z>
+	</axis>
+  </animation>
+
+  <animation>
+	<type>billboard</type>
+	<object-name>RedLight3</object-name>
+	<spherical type="bool">true</spherical>
+  </animation>
+
+  <animation>
+	<type>dist-scale</type>
+	<object-name>RedLight3</object-name>
+	<interpolation>
+	  <entry><ind>0</ind><dep>0.5</dep></entry>
+	  <entry><ind>1000</ind><dep>1</dep></entry>
+	  <entry><ind>16000</ind><dep>10</dep></entry>
+	</interpolation>
+  </animation>
+
+  <animation>
+	<type>translate</type>
+	<object-name>RedLight4</object-name>
+	<offset-m>127.5</offset-m>
+	<axis>
+	  <x>20</x>
+	  <y>-4</y>
+	  <z>125</z>
+	</axis>
+  </animation>
+
+  <animation>
+	<type>billboard</type>
+	<object-name>RedLight4</object-name>
+	<spherical type="bool">true</spherical>
+  </animation>
+
+  <animation>
+	<type>dist-scale</type>
+	<object-name>RedLight4</object-name>
+	<interpolation>
+	  <entry><ind>0</ind><dep>0.5</dep></entry>
+	  <entry><ind>1000</ind><dep>1</dep></entry>
+	  <entry><ind>16000</ind><dep>10</dep></entry>
+	</interpolation>
+  </animation>
+
+</PropertyList>
