@@ -28,16 +28,16 @@
   </runway>
   <runway>
     <ils>
-      <lon>  13.480917 </lon>
-      <lat> 52.366707 </lat>
+      <lon>13.480917</lon>
+      <lat>52.366707</lat>
       <rwy>07L</rwy>
       <hdg-deg>68.77</hdg-deg>
       <elev-m>47.85</elev-m>
       <nav-id>IBNE</nav-id>
     </ils>
     <ils>
-      <lon>  13.530207 </lon>
-      <lat> 52.378398 </lat>
+      <lon>13.53020</lon>
+      <lat>52.378398</lat>
       <rwy>25R</rwy>
       <hdg-deg>248.77</hdg-deg>
       <elev-m>47.85</elev-m>
