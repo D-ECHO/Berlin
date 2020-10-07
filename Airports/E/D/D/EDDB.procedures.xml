@@ -1012,8 +1012,8 @@
                         <Star_Waypoint ID="2">
 				<Name>NOLNI</Name>
 				<Type>Normal</Type>
-				<Latitude>51.5340</Latitude>
-				<Longitude>13.2099</Longitude>
+				<Latitude>51.672667</Latitude>
+				<Longitude>13.326167</Longitude>
 				<Speed>0</Speed>
 				<Altitude>0</Altitude>
 				<AltitudeCons>0</AltitudeCons>
@@ -1232,7 +1232,79 @@
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="6">
+                                <AppTr_Waypoint ID="6">
+					<Name>DB544</Name>
+					<Type>Normal</Type>
+					<Latitude>52.163500</Latitude>
+					<Longitude>13.009333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="7">
+					<Name>DB545</Name>
+					<Type>Normal</Type>
+					<Latitude>52.139000</Latitude>
+					<Longitude>12.908667</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="8">
+					<Name>DB546</Name>
+					<Type>Normal</Type>
+					<Latitude>52.114167</Latitude>
+					<Longitude>12.808167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="9">
+					<Name>DB556</Name>
+					<Type>Normal</Type>
+					<Latitude>52.191667</Latitude>
+					<Longitude>12.757833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="10">
+					<Name>DB555</Name>
+					<Type>Normal</Type>
+					<Latitude>52.216333</Latitude>
+					<Longitude>12.858500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="11">
+					<Name>DB554</Name>
+					<Type>Normal</Type>
+					<Latitude>52.241000</Latitude>
+					<Longitude>12.959333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="12">
 					<Name>DB553</Name>
 					<Type>Normal</Type>
 					<Latitude>52.265510</Latitude>
@@ -1244,7 +1316,7 @@
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="7">
+				<AppTr_Waypoint ID="13">
 					<Name>DB552</Name>
 					<Type>Normal</Type>
 					<Latitude>52.289970</Latitude>
@@ -1299,7 +1371,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.391860</Latitude>
 					<Longitude>13.212570</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1311,7 +1383,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.367430</Latitude>
 					<Longitude>13.111300</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1323,26 +1395,98 @@
 					<Type>Normal</Type>
 					<Latitude>52.342910</Latitude>
 					<Longitude>13.010140</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="7">
+                                <AppTr_Waypoint ID="7">
+					<Name>DB534</Name>
+					<Type>Normal</Type>
+					<Latitude>52.318333</Latitude>
+					<Longitude>12.909167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="8">
+					<Name>DB535</Name>
+					<Type>Normal</Type>
+					<Latitude>52.293667</Latitude>
+					<Longitude>12.808167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="9">
+					<Name>DB536</Name>
+					<Type>Normal</Type>
+					<Latitude>52.268833</Latitude>
+					<Longitude>12.707333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="10">
+					<Name>DB556</Name>
+					<Type>Normal</Type>
+					<Latitude>52.191667</Latitude>
+					<Longitude>12.757833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="11">
+					<Name>DB555</Name>
+					<Type>Normal</Type>
+					<Latitude>52.216333</Latitude>
+					<Longitude>12.858500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="12">
+					<Name>DB554</Name>
+					<Type>Normal</Type>
+					<Latitude>52.241000</Latitude>
+					<Longitude>12.959333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="13">
 					<Name>DB553</Name>
 					<Type>Normal</Type>
 					<Latitude>52.265510</Latitude>
 					<Longitude>13.060170</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="8">
+				<AppTr_Waypoint ID="14">
 					<Name>DB552</Name>
 					<Type>Normal</Type>
 					<Latitude>52.289970</Latitude>
@@ -1521,7 +1665,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.352330</Latitude>
 					<Longitude>13.798200</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1533,7 +1677,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.376110</Latitude>
 					<Longitude>13.899850</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1545,7 +1689,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.405830</Latitude>
 					<Longitude>14.027610</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1553,23 +1697,95 @@
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
 				<AppTr_Waypoint ID="7">
-					<Name>DEPOP</Name>
+					<Name>DB444</Name>
 					<Type>Normal</Type>
-					<Latitude>52.483680</Latitude>
-					<Longitude>13.979240</Longitude>
-					<Speed>220</Speed>
+					<Latitude>52.405333</Latitude>
+					<Longitude>14.081333</Longitude>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="8">
+                                <AppTr_Waypoint ID="8">
+					<Name>DB445</Name>
+					<Type>Normal</Type>
+					<Latitude>52.415000</Latitude>
+					<Longitude>14.189167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="9">
+					<Name>DB446</Name>
+					<Type>Normal</Type>
+					<Latitude>52.424667</Latitude>
+					<Longitude>14.296833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="10">
+					<Name>DB456</Name>
+					<Type>Normal</Type>
+					<Latitude>52.507167</Latitude>
+					<Longitude>14.277000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="11">
+					<Name>DB455</Name>
+					<Type>Normal</Type>
+					<Latitude>52.497333</Latitude>
+					<Longitude>14.169000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="12">
+					<Name>DB454</Name>
+					<Type>Normal</Type>
+					<Latitude>52.487500</Latitude>
+					<Longitude>14.061167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="13">
+					<Name>DB453</Name>
+					<Type>Normal</Type>
+					<Latitude>52.477667</Latitude>
+					<Longitude>13.953333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="14">
 					<Name>DB452</Name>
 					<Type>Normal</Type>
 					<Latitude>52.453880</Latitude>
 					<Longitude>13.851370</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1595,7 +1811,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.233600</Latitude>
 					<Longitude>13.824767</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1607,7 +1823,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.273270</Latitude>
 					<Longitude>13.696650</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1631,7 +1847,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.352330</Latitude>
 					<Longitude>13.798200</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1643,7 +1859,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.376110</Latitude>
 					<Longitude>13.899850</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1655,7 +1871,7 @@
 					<Type>Normal</Type>
 					<Latitude>52.405830</Latitude>
 					<Longitude>14.027610</Longitude>
-					<Speed>220</Speed>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
@@ -1663,10 +1879,94 @@
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
 				<AppTr_Waypoint ID="8">
-					<Name>DEPOP</Name>
+					<Name>DB444</Name>
 					<Type>Normal</Type>
-					<Latitude>52.483680</Latitude>
-					<Longitude>13.979240</Longitude>
+					<Latitude>52.405333</Latitude>
+					<Longitude>14.081333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="9">
+					<Name>DB445</Name>
+					<Type>Normal</Type>
+					<Latitude>52.415000</Latitude>
+					<Longitude>14.189167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="10">
+					<Name>DB446</Name>
+					<Type>Normal</Type>
+					<Latitude>52.424667</Latitude>
+					<Longitude>14.296833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="11">
+					<Name>DB456</Name>
+					<Type>Normal</Type>
+					<Latitude>52.507167</Latitude>
+					<Longitude>14.277000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="12">
+					<Name>DB455</Name>
+					<Type>Normal</Type>
+					<Latitude>52.497333</Latitude>
+					<Longitude>14.169000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="13">
+					<Name>DB454</Name>
+					<Type>Normal</Type>
+					<Latitude>52.487500</Latitude>
+					<Longitude>14.061167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="14">
+					<Name>DB453</Name>
+					<Type>Normal</Type>
+					<Latitude>52.477667</Latitude>
+					<Longitude>13.953333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="15">
+					<Name>DB452</Name>
+					<Type>Normal</Type>
+					<Latitude>52.453880</Latitude>
+					<Longitude>13.851370</Longitude>
 					<Speed>220</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
@@ -1674,7 +1974,165 @@
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="9">
+			</App_Transition>
+                        <App_Transition Name="NUKRO25R">
+				<AppTr_Waypoint ID="1">
+                                        <Name>NUKRO</Name>
+                                        <Type>Normal</Type>
+                                        <Latitude>52.047500</Latitude>
+                                        <Longitude>14.416389</Longitude>
+                                        <Speed>0</Speed>
+                                        <Altitude>14000</Altitude>
+                                        <AltitudeCons>0</AltitudeCons>
+                                        <AltitudeRestriction>below</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+                                        <Sp_Turn>Auto</Sp_Turn>
+                                </AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>DB439</Name>
+					<Type>Normal</Type>
+					<Latitude>52.273270</Latitude>
+					<Longitude>13.696650</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>DB440</Name>
+					<Type>Normal</Type>
+					<Latitude>52.328470</Latitude>
+					<Longitude>13.696660</Longitude>
+					<Speed>220</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="4">
+					<Name>DB441</Name>
+					<Type>Normal</Type>
+					<Latitude>52.352330</Latitude>
+					<Longitude>13.798200</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="5">
+					<Name>DB442</Name>
+					<Type>Normal</Type>
+					<Latitude>52.376110</Latitude>
+					<Longitude>13.899850</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="6">
+					<Name>DB443</Name>
+					<Type>Normal</Type>
+					<Latitude>52.405830</Latitude>
+					<Longitude>14.027610</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="7">
+					<Name>DB444</Name>
+					<Type>Normal</Type>
+					<Latitude>52.405333</Latitude>
+					<Longitude>14.081333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="8">
+					<Name>DB445</Name>
+					<Type>Normal</Type>
+					<Latitude>52.415000</Latitude>
+					<Longitude>14.189167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="9">
+					<Name>DB446</Name>
+					<Type>Normal</Type>
+					<Latitude>52.424667</Latitude>
+					<Longitude>14.296833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="10">
+					<Name>DB456</Name>
+					<Type>Normal</Type>
+					<Latitude>52.507167</Latitude>
+					<Longitude>14.277000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="11">
+					<Name>DB455</Name>
+					<Type>Normal</Type>
+					<Latitude>52.497333</Latitude>
+					<Longitude>14.169000</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="12">
+					<Name>DB454</Name>
+					<Type>Normal</Type>
+					<Latitude>52.487500</Latitude>
+					<Longitude>14.061167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="13">
+					<Name>DB453</Name>
+					<Type>Normal</Type>
+					<Latitude>52.477667</Latitude>
+					<Longitude>13.953333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+					<Flytype>Fly-by</Flytype>
+					<Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="14">
 					<Name>DB452</Name>
 					<Type>Normal</Type>
 					<Latitude>52.453880</Latitude>
@@ -1709,7 +2167,7 @@
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
+					<Flytype>Fly-over</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
 			</App_Transition>	
@@ -1833,7 +2291,7 @@
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
+					<Flytype>Fly-over</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
                         </App_Transition>
@@ -1859,7 +2317,7 @@
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
+					<Flytype>Fly-over</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
                         </App_Transition>
@@ -2143,7 +2601,7 @@
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
+					<Flytype>Fly-over</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
 			</App_Transition>
@@ -2252,109 +2710,37 @@
 					<Latitude>51.923611</Latitude>
 					<Longitude>13.788056</Longitude>
 					<Speed>0</Speed>
-					<Altitude>12000</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>below</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="2">
-					<Name>NATAV</Name>
-					<Type>Normal</Type>
-					<Latitude>52.233600</Latitude>
-					<Longitude>13.824767</Longitude>
-					<Speed>220</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
 					<Flytype>Fly-by</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="2">
+					<Name>FWE</Name>
+                                        <Type>Normal</Type>
+                                        <Latitude>52.411336</Latitude>
+                                        <Longitude>14.130589</Longitude>
+                                        <Speed>0</Speed>
+                                        <Altitude>4000</Altitude>
+                                        <AltitudeCons>0</AltitudeCons>
+                                        <AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+                                        <Sp_Turn>Auto</Sp_Turn>
+				</AppTr_Waypoint>
 				<AppTr_Waypoint ID="3">
-					<Name>DB439</Name>
+					<Name>FWE/9.5</Name>
 					<Type>Normal</Type>
-					<Latitude>52.273270</Latitude>
-					<Longitude>13.696650</Longitude>
-					<Speed>220</Speed>
+					<Latitude>52.4521</Latitude>
+					<Longitude>13.8808</Longitude>
+					<Speed>0</Speed>
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
 					<Flytype>Fly-over</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="4">
-					<Name>DB440</Name>
-					<Type>Normal</Type>
-					<Latitude>52.328470</Latitude>
-					<Longitude>13.696660</Longitude>
-					<Speed>220</Speed>
-					<Altitude>0</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="5">
-					<Name>DB441</Name>
-					<Type>Normal</Type>
-					<Latitude>52.352330</Latitude>
-					<Longitude>13.798200</Longitude>
-					<Speed>220</Speed>
-					<Altitude>0</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="6">
-					<Name>DB442</Name>
-					<Type>Normal</Type>
-					<Latitude>52.376110</Latitude>
-					<Longitude>13.899850</Longitude>
-					<Speed>220</Speed>
-					<Altitude>0</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="7">
-					<Name>DB443</Name>
-					<Type>Normal</Type>
-					<Latitude>52.405830</Latitude>
-					<Longitude>14.027610</Longitude>
-					<Speed>220</Speed>
-					<Altitude>0</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="8">
-					<Name>DEPOP</Name>
-					<Type>Normal</Type>
-					<Latitude>52.483680</Latitude>
-					<Longitude>13.979240</Longitude>
-					<Speed>220</Speed>
-					<Altitude>0</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-				<AppTr_Waypoint ID="9">
-					<Name>DB452</Name>
-					<Type>Normal</Type>
-					<Latitude>52.453880</Latitude>
-					<Longitude>13.851370</Longitude>
-					<Speed>220</Speed>
-					<Altitude>0</Altitude>
-					<AltitudeCons>0</AltitudeCons>
-					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
-					<Sp_Turn>Auto</Sp_Turn>
-				</AppTr_Waypoint>
-			</App_Transition>
+                        </App_Transition>
 			<App_Transition Name="FWE25R">
 				<AppTr_Waypoint ID="1">
 					<Name>FWE</Name>
@@ -2377,7 +2763,7 @@
 					<Altitude>0</Altitude>
 					<AltitudeCons>0</AltitudeCons>
 					<AltitudeRestriction>at</AltitudeRestriction>
-					<Flytype>Fly-by</Flytype>
+					<Flytype>Fly-over</Flytype>
 					<Sp_Turn>Auto</Sp_Turn>
 				</AppTr_Waypoint>
 			</App_Transition>	
