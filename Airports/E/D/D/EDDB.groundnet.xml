@@ -80,10 +80,10 @@
         <Parking index="75" type="gate" name="Apron_ABT_2" lat="N52 21.438103" lon="E13 29.065390" heading="159.9"  radius="36" pushBackRoute="189" airlineCodes="" />
         <Parking index="76" type="gate" name="Apron_LHT_1" lat="N52 21.592509" lon="E13 28.972383" heading="159.9"  radius="36" pushBackRoute="187" airlineCodes="" />
         <Parking index="77" type="gate" name="Apron_LHT_2" lat="N52 21.556392" lon="E13 28.989967" heading="339.14"  radius="36" pushBackRoute="187" airlineCodes="" />
-        <Parking index="78" type="gate" name="Cargo_Apron_1" lat="N52 22.818835" lon="E13 30.477503" heading="146.99"  radius="20" pushBackRoute="172" airlineCodes="" />
-        <Parking index="79" type="gate" name="Cargo_Apron_2" lat="N52 22.834564" lon="E13 30.516870" heading="146.99"  radius="20" pushBackRoute="172" airlineCodes="" />
-        <Parking index="80" type="gate" name="Cargo_Apron_3" lat="N52 22.813155" lon="E13 30.593815" heading="146.99"  radius="20" pushBackRoute="172" airlineCodes="" />
-        <Parking index="81" type="gate" name="Cargo_Apron_4" lat="N52 22.797499" lon="E13 30.553162" heading="146.99"  radius="20" pushBackRoute="172" airlineCodes="" />
+        <Parking index="78" type="gate" name="Government_1" lat="N52 22.816535" lon="E13 30.622698" heading="240"  radius="20" pushBackRoute="172" airlineCodes="" />
+        <Parking index="79" type="gate" name="Government_2" lat="N52 22.802229" lon="E13 30.579205" heading="240"  radius="20" pushBackRoute="172" airlineCodes="" />
+        <Parking index="80" type="gate" name="Government_3" lat="N52 22.785662" lon="E13 30.530587" heading="210"  radius="20" pushBackRoute="172" airlineCodes="" />
+        <Parking index="81" type="gate" name="Government_4" lat="N52 22.773718" lon="E13 30.495410" heading="220"  radius="20" pushBackRoute="172" airlineCodes="" />
         <Parking index="82" type="gate" name="Apron_2_Pos_20" lat="N52 22.927000" lon="E13 30.832568" heading="-83.24"  radius="20" pushBackRoute="170" airlineCodes="" />
         <Parking index="83" type="gate" name="Apron_2_Pos_21" lat="N52 22.942711" lon="E13 30.835403" heading="-83.24"  radius="20" pushBackRoute="169" airlineCodes="" />
         <Parking index="84" type="gate" name="Apron_2_Pos_22" lat="N52 22.984170" lon="E13 30.843794" heading="-83.24"  radius="20" pushBackRoute="168" airlineCodes="" />
