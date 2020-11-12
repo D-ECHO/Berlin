@@ -145,6 +145,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 13.6821415 52.2909
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 13.6825616 52.3667647 32 20.53
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 13.65087 52.33844 32 171.19
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 13.6576667 52.344 32 224.73
+#EDDB west buildings
+OBJECT_STATIC BER_WacheWest.ac 13.48499655 52.35372411 39.8676 110.7 0.0 -0.0
 #EDDB west buildings, to be replaced
 OBJECT_SHARED Models/Airport/BT.ac 13.48229037 52.35955879 39.6916 21.5 0.0 -0.0
 OBJECT_SHARED Models/Airport/LOWI_firestation.ac 13.48362691 52.35411740 39.9357 9.2 0.0 -0.0
