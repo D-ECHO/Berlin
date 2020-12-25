@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <description>Firetruck1</description>
+  <author>na</author>  
+  <path>Models/Rosenbauer_TLF_5500.ac</path>
+  <sound><path>AI/Aircraft/cobus/Models/sound.xml</path></sound>
+  <offsets>
+    <pitch-deg>0</pitch-deg>
+  </offsets>   
+
+</PropertyList>

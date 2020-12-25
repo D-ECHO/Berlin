@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<PropertyList include="firetruck1-main.xml">
+
+ <texture-path>Textures/firetruck1</texture-path>
+
+</PropertyList>

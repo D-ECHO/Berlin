@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <scenario>
+
+  <name>EDDB ground vehicles</name>
+  <description>
+     AI-scenario to simulate ground operations at Berlin Brandenburg (EDDB) (Sven Seipp, Dec 2020)
+  </description>
+
+  <entry>
+   <callsign>Crewbus1</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>AI/Aircraft/cobus/cobus1.xml</model>
+   <flightplan>EDDB_Bus1.xml</flightplan>
+   <repeat>99</repeat>
+  </entry>
+  
+  <entry>
+   <callsign>Crewbus2</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>AI/Aircraft/cobus/cobus1.xml</model>
+   <flightplan>EDDB_Bus2.xml</flightplan>
+   <repeat>99</repeat>
+  </entry>
+  
+  <entry>
+   <callsign>FollowMe1</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>AI/Aircraft/followme/followme.xml</model>
+   <flightplan>EDDB_Followme1.xml</flightplan>
+   <repeat>99</repeat>
+  </entry>
+  
+  <entry>
+   <callsign>Firetruck1</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>AI/Aircraft/firetruck1/firetruck1.xml</model>
+   <flightplan>EDDB_Firetruck1.xml</flightplan>
+   <repeat>99</repeat>
+  </entry>
+  
+  <entry>
+   <callsign>Firetruck2</callsign>
+   <type>aircraft</type>
+   <class>aerotow-dragger</class>
+   <model>AI/Aircraft/firetruck1/firetruck1.xml</model>
+   <flightplan>EDDB_Firetruck2.xml</flightplan>
+   <repeat>99</repeat>
+  </entry>
+
+ </scenario>
+
+</PropertyList>

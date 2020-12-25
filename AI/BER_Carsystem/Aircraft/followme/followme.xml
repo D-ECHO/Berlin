@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<PropertyList include="followme-main.xml">
+
+ <texture-path>Textures/followme</texture-path>
+
+</PropertyList>

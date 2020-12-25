@@ -6,6 +6,7 @@
 	* Latest terrain/taxiways
 	* Fully developed terminals + secondary buildings
 	* SID/STAR/APP FMS procedures
+	* (beta) AI carsystem for gound vehicles
 * Berlin Tegel Airport (terrasync)
 	* Main terminal and some shared objects
 	* SID/STAR/APP FMS procedures
@@ -15,6 +16,11 @@
 * Important buildings/facilites in Berlin
 * Terrain update
 * Navaid update
+
+### carsystem installation (beta)
+
+* copy the content from /Berlin/AI/BER_Carsystem into your $FG_ROOT/AI/ folder.
+* Linux: sudo cp -r ...../Berlin/AI/BER_Carsystem/* /usr/share/games/flightgear/AI/
 
 ### Links
 * **Forum thread**:  https://forum.flightgear.org/viewtopic.php?f=5&t=33879 

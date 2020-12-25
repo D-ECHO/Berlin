@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<PropertyList include="cobus-main.xml">
+
+ <texture-path>Textures/cobus</texture-path>
+
+</PropertyList>
