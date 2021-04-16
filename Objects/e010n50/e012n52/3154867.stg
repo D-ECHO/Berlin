@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Power/windturbine.xml 12.7733333 52.8686111 45.7 180
+OBJECT_SHARED Models/Power/windturbine.xml 12.775 52.8688889 44.99 180
+OBJECT_SHARED Models/Power/windturbine.xml 12.7791667 52.8638889 46.77 180
+OBJECT_SHARED Models/Power/windturbine.xml 12.7869444 52.8436111 40.2 180
+OBJECT_SHARED Models/Power/windturbine.xml 12.7952778 52.8580556 47.87 180
+OBJECT_SHARED Models/Power/windturbine.xml 12.7966667 52.8652778 41.84 180
+OBJECT_SHARED Models/Power/windturbine.xml 12.8022222 52.7683333 34.05 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 12.7825 52.8136111 -399.5 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 12.86734 52.85446 34.73 45.39
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 12.870762 52.8530485 34.82 173.02
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 12.87533 52.85249 35 336.34
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 12.88493 52.85193 35 319.14
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 12.88458 52.85178 35 273.64
