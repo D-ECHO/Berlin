@@ -13,9 +13,12 @@
 	* soon: more secondary buildings
 * Berlin Tempelhof Airport (closed/terrasync)
 	* fully modelled famous disused airfield
+* All airports / heliports in covered area
 * Important buildings/facilites in Berlin
 * Terrain update
 * Navaid update
+
+![Coverage](coverage.png)
 
 ### carsystem installation (beta)
 
@@ -44,6 +47,8 @@
 	(http://www.openstreetmap.org) available under the Open Database License (ODbL) 
 * Elevation data from 
 	http://viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm 
+* Airport data from 
+	https://gateway.x-plane.com  
 * Objects from user Ger272 on the flightgear forum https://forum.flightgear.org  
 	**Thanks!** (re-structured) and TerraSync (FlightGear Project)
 
