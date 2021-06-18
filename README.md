@@ -15,6 +15,7 @@
 	* fully modelled famous disused airfield
 * All airports / heliports in covered area
 * Important buildings/facilites in Berlin
+* osm2city for all of Berlin
 * Terrain update
 * Navaid update
 
@@ -48,7 +49,11 @@
 * Elevation data from 
 	http://viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm 
 * Airport data from 
-	https://gateway.x-plane.com  
+	https://gateway.x-plane.com
+* osm2city:
+	https://gitlab.com/osm2city
+* osm raw data:
+	https://download.geofabrik.de/
 * Objects from user Ger272 on the flightgear forum https://forum.flightgear.org  
 	**Thanks!** (re-structured) and TerraSync (FlightGear Project)
 

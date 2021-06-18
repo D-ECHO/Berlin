@@ -1,4 +1,4 @@
-<ProceduresDB build='By Pedro Sousa, Wade Chafe, extracted by PROCIO 6a -Ian Mitchell, modified by D-SVEN (Oct 2020)'>
+<ProceduresDB build='By Sven Seipp, based on https://aip.dfs.de/basicIFR/index.html (MAY2021)'>
 	<Airport ICAOcode="EDDB">
 		<Sid Name="GERGA1B" Runways="07L">
 			<Sid_Waypoint ID="1">
