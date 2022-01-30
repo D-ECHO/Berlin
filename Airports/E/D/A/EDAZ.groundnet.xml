@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Apron_1_1" lat="N52 12.253842" lon="E13 9.134308" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_1_2" lat="N52 12.251889" lon="E13 9.122369" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_1_3" lat="N52 12.250156" lon="E13 9.110422" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron_1_4" lat="N52 12.248246" lon="E13 9.098545" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_1_5" lat="N52 12.267484" lon="E13 9.115952" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_1_6" lat="N52 12.265661" lon="E13 9.103975" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="6" type="gate" name="Apron_1_7" lat="N52 12.263875" lon="E13 9.092027" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="7" type="gate" name="Apron_1_10" lat="N52 12.258176" lon="E13 9.056151" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="8" type="gate" name="Apron_1_11" lat="N52 12.256285" lon="E13 9.044321" heading="164"  radius="44" airlineCodes="" />
+        <Parking index="9" type="gate" name="Apron_1_12" lat="N52 12.254509" lon="E13 9.032240" heading="164"  radius="44" airlineCodes="" />
+        
+        <Parking index="10" type="gate" name="Apron_1_20" lat="N52 12.273118" lon="E13 9.016835" heading="303"  radius="44" airlineCodes="" />
+        <Parking index="11" type="gate" name="Apron_1_23" lat="N52 12.293591" lon="E13 9.037382" heading="303"  radius="44" airlineCodes="" />
+        <Parking index="12" type="gate" name="Apron_1_24" lat="N52 12.293539" lon="E13 9.051548" heading="33"  radius="44" airlineCodes="" />
+        <Parking index="13" type="gate" name="Apron_1_25" lat="N52 12.289517" lon="E13 9.062961" heading="33"  radius="44" airlineCodes="" />
+        <Parking index="14" type="gate" name="Apron_1_26" lat="N52 12.286193" lon="E13 9.072521" heading="33"  radius="44" airlineCodes="" />
+        
+        <Parking index="15" type="gate" name="Apron_2_2" lat="N52 12.242292" lon="E13 9.258100" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="16" type="gate" name="Apron_2_3" lat="N52 12.245426" lon="E13 9.281450" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="17" type="gate" name="Apron_2_4" lat="N52 12.249047" lon="E13 9.304384" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="18" type="gate" name="Apron_2_5" lat="N52 12.252934" lon="E13 9.326741" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="19" type="gate" name="Apron_2_6" lat="N52 12.256799" lon="E13 9.349727" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="20" type="gate" name="Apron_2_7" lat="N52 12.260302" lon="E13 9.372592" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="21" type="gate" name="Apron_2_8" lat="N52 12.263881" lon="E13 9.395689" heading="165"  radius="44" airlineCodes="" />
+        
+        <Parking index="22" type="gate" name="Fuel_1" lat="N52 12.230033" lon="E13 9.121348" heading="255"  radius="44" airlineCodes="" />
+        <Parking index="23" type="gate" name="Fuel_2" lat="N52 12.232915" lon="E13 9.140384" heading="255"  radius="44" airlineCodes="" />
+        <Parking index="24" type="gate" name="Fuel_3" lat="N52 12.238267" lon="E13 9.117408" heading="255"  radius="44" airlineCodes="" />
+        <Parking index="25" type="gate" name="Fuel_4" lat="N52 12.241034" lon="E13 9.137594" heading="255"  radius="44" airlineCodes="" />
+        
+        <Parking index="26" type="gate" name="Hangar_C_1" lat="N52 12.254672" lon="E13 8.965242" heading="210"  radius="44" airlineCodes="" />
+        <Parking index="27" type="gate" name="Hangar_C_2" lat="N52 12.269606" lon="E13 8.979650" heading="210"  radius="44" airlineCodes="" />
+        <Parking index="28" type="gate" name="Hangar_C_3" lat="N52 12.300207" lon="E13 9.008300" heading="210"  radius="44" airlineCodes="" />
+        
+        <Parking index="20" type="gate" name="Hangar_D" lat="N52 12.360872" lon="E13 8.982576" heading="120"  radius="44" airlineCodes="" />
+        <Parking index="30" type="gate" name="Hangar_B_1" lat="N52 12.366305" lon="E13 9.050060" heading="213"  radius="44" airlineCodes="" />
+        <Parking index="31" type="gate" name="Hangar_B_2" lat="N52 12.385510" lon="E13 9.069221" heading="213"  radius="44" airlineCodes="" />
+        
+        <Parking index="32" type="gate" name="Hangar_O_1" lat="N52 12.414963" lon="E13 9.076422" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="33" type="gate" name="Hangar_O_2" lat="N52 12.440773" lon="E13 9.065710" heading="165"  radius="44" airlineCodes="" />
+        <Parking index="34" type="gate" name="Hangar_O_3" lat="N52 12.469272" lon="E13 9.055773" heading="165"  radius="44" airlineCodes="" />
+        
+        <Parking index="35" type="gate" name="Hangar_I_1" lat="N52 12.514390" lon="E13 9.124634" heading="345"  radius="44" airlineCodes="" />
+        <Parking index="36" type="gate" name="Hangar_I_2" lat="N52 12.499129" lon="E13 9.130494" heading="345"  radius="44" airlineCodes="" />
+        <Parking index="37" type="gate" name="Hangar_I_3" lat="N52 12.480910" lon="E13 9.137707" heading="345"  radius="44" airlineCodes="" />
+        
+        <Parking index="38" type="gate" name="Hangar_M_1" lat="N52 12.459500" lon="E13 9.146731" heading="345"  radius="44" airlineCodes="" />
+        <Parking index="39" type="gate" name="Hangar_M_2" lat="N52 12.463528" lon="E13 9.179180" heading="345"  radius="44" airlineCodes="" />
+        
+        <Parking index="40" type="gate" name="Hangar_S" lat="N52 12.599468" lon="E13 9.002070" heading="360"  radius="44" airlineCodes="" />
+        <Parking index="41" type="gate" name="Hangar_V_1" lat="N52 12.635477" lon="E13 9.028675" heading="68"  radius="44" airlineCodes="" />
+        <Parking index="42" type="gate" name="Hangar_V_2" lat="N52 12.638720" lon="E13 9.060608" heading="107"  radius="44" airlineCodes="" />
+        
+        <Parking index="43" type="gate" name="Hangar_W_1" lat="N52 12.628629" lon="E13 9.100736" heading="107"  radius="44" airlineCodes="" />
+        <Parking index="44" type="gate" name="Hangar_W_2" lat="N52 12.625494" lon="E13 9.119982" heading="107"  radius="44" airlineCodes="" />
+        <Parking index="45" type="gate" name="Hangar_X" lat="N52 12.617129" lon="E13 9.174475" heading="107"  radius="44" airlineCodes="" />
+        
+        <Parking index="46" type="gate" name="Hangar_G_1" lat="N52 12.462449" lon="E13 8.979957" heading="76"  radius="44" airlineCodes="" />
+        <Parking index="47" type="gate" name="Hangar_G_2" lat="N52 12.468354" lon="E13 9.015490" heading="76"  radius="44" airlineCodes="" />
+        
+        <Parking index="48" type="gate" name="Hangar_A_1" lat="N52 12.314740" lon="E13 9.063446" heading="300"  radius="44" airlineCodes="" />
+        <Parking index="49" type="gate" name="Hangar_A_2" lat="N52 12.296306" lon="E13 9.111324" heading="300"  radius="44" airlineCodes="" />
+        <Parking index="50" type="gate" name="Hangar_A_2" lat="N52 12.291970" lon="E13 9.123485" heading="300"  radius="44" airlineCodes="" />
+ </parkingList>
+</groundnet>
+
+<!--
+
+
+Hangar_G:
+
+Hangar_G_1: 13.14966595 52.20770749 hdg 76
+Hangar_G_2: 13.15025817 52.20780590 hdg 76
+
+Hangar_A:
+
+Hangar_A_1: 13.15105744 52.20524566 hdg 300
+Hangar_A_2: 13.15185540 52.20493843 hdg 300
+Hangar_A_3: 13.15205808 52.20486617 hdg 300
+
+Parking raw data:
+
+Apron_2_2: 13.15430167 52.20403820 hdg 165
+Apron_2_3: 13.15469084 52.20409043 hdg 165
+Apron_2_4: 13.15507306 52.20415078 hdg 165
+Apron_2_5: 13.15544569 52.20421557 hdg 165
+Apron_2_6: 13.15582878 52.20427999 hdg 165
+Apron_2_7: 13.15620987 52.20433837 hdg 165
+Apron_2_8: 13.15659481 52.20439801 hdg 165
+
+Fuel Station: 
+
+Fuel_1: 13.15202246 52.20383388 hdg 255
+Fuel_2: 13.15233973 52.20388191 hdg 255
+Fuel_3: 13.15195680 52.20397112 hdg 255
+Fuel_4: 13.15229324 52.20401724 hdg 255
+
+Apron_1:
+ 
+Apron_1_1:  13.15223846 52.20423070 hdg 164
+Apron_1_2:  13.15203949 52.20419815 hdg 164
+Apron_1_3:  13.15184037 52.20416927 hdg 164
+Apron_1_4:  13.15164241 52.20413744 hdg 164
+Apron_1_5:  13.15193254 52.20445806 hdg 164
+Apron_1_6:  13.15173291 52.20442769 hdg 164
+Apron_1_7:  13.15153379 52.20439791 hdg 164
+Apron_1_10: 13.15093585 52.20430293 hdg 164
+Apron_1_11: 13.15073869 52.20427142 hdg 164
+Apron_1_12: 13.15053733 52.20424181 hdg 164
+
+Apron_1_20: 13.15028059 52.20455196 hdg 303
+Apron_1_23: 13.15062304 52.20489318 hdg 303
+Apron_1_24: 13.15085913 52.20489231 hdg 33
+Apron_1_25: 13.15104935 52.20482528 hdg 33
+Apron_1_26: 13.15120868 52.20476988 hdg 33
+
+Hangar_C:
+
+Hangar_C_1: 13.14942070 52.20424454 hdg 210
+Hangar_C_2: 13.14966084 52.20449344 hdg 210
+Hangar_C_3: 13.15013833 52.20500345 hdg 210
+
+Hangar_D:
+
+Hangar_D_1: 13.14970960 52.20601454 hdg 120 
+
+Hangar_B:
+
+Hangar_B_1: 13.15083433 52.20610508 hdg 213
+Hangar_B_2: 13.15115369 52.20642516 hdg 213
+
+Hangar_O:
+
+Hangar_O_1: 13.15127370 52.20691605 hdg 165
+Hangar_O_2: 13.15109516 52.20734621 hdg 165
+Hangar_O_3: 13.15092955 52.20782120 hdg 165
+
+Hangar_I:
+
+Hangar_I_1: 13.15207724 52.20857316 hdg 345
+Hangar_I_2: 13.15217490 52.20831882 hdg 345
+Hangar_I_3: 13.15229512 52.20801516 hdg 345
+
+Hangar_M:
+
+Hangar_M_1: 13.15244551 52.20765833 hdg 345
+Hangar_M_2: 13.15298633 52.20772547 hdg 345
+
+Hangar_S:
+ 
+Hangar_S_1: 13.15003450 52.20999114 hdg 360
+
+Hangar_V:
+
+Hangar_V_1: 13.15047792 52.21059129 hdg 68
+Hangar_V_2: 13.15101013 52.21064534 hdg 107
+
+Hangar_W:
+
+Hangar_W_1: 13.15167894 52.21047715 hdg 107
+Hangar_W_2: 13.15199970 52.21042490 hdg 107
+
+Hangar_X:
+
+Hangar_X_1: 13.15290791 52.21028549 hdg 107
+
+
+-->

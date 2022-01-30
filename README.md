@@ -2,16 +2,20 @@
 ## Main custom scenery of Berlin, Germany for FlightGear Flight Simulator
 
 ### This package contains
-* Berlin Brandenburg "Willy Brandt" Airport
+* Berlin Brandenburg "Willy Brandt" Airport (EDDB)
 	* Latest terrain/taxiways
 	* Fully developed terminals + secondary buildings
 	* SID/STAR/APP FMS procedures
 	* (beta) AI carsystem for gound vehicles
-* Berlin Tegel Airport (terrasync)
+* Berlin Tegel Airport (EDDT)
 	* Main terminal and some shared objects
 	* SID/STAR/APP FMS procedures
-	* soon: more secondary buildings
-* Berlin Tempelhof Airport (closed/terrasync)
+* Berlin Schönhagen (EDAZ)
+	* All main/secondary airport buildings
+	* new parkingpos
+	* RNP FMS approach RWY25
+	* todo: texturize buildings
+* Berlin Tempelhof Airport (closed/EDDI)
 	* fully modelled famous disused airfield
 * All airports / heliports in covered area
 * Important buildings/facilites in Berlin
@@ -19,7 +23,7 @@
 * Terrain update
 * Navaid update
 
-![Coverage](coverage.png)
+![Coverage](coverage.jpg)
 
 ### carsystem installation (beta)
 
