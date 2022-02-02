@@ -14,7 +14,6 @@
 	* All main/secondary airport buildings
 	* new parkingpos
 	* RNP FMS approach RWY25
-	* todo: texturize buildings
 * Berlin Tempelhof Airport (closed/EDDI)
 	* fully modelled famous disused airfield
 * All airports / heliports in covered area
